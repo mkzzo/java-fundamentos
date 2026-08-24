@@ -1,4 +1,3 @@
-Markdown
 # ☕ Java Fundamentos
 
 Repositório dedicado ao estudo dos fundamentos da linguagem Java, conceitos de programação orientada a objetos e resolução de exercícios práticos.
