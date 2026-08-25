@@ -23,14 +23,14 @@ Repositório dedicado ao estudo dos fundamentos da linguagem Java, conceitos de 
 └── README.md
 ```
 ## 📌 Conteúdos Praticados
-Entrada e saída padrão (System.in, System.out.println, System.out.printf)
+Entrada e Saída: Manipulação de Scanner, System.out.print, println e printf com formatação (%s, %d, %.2f).
 
-- Manipulação da classe java.util.Scanner
+Tipos de Dados e Operadores: Primitivos (int, float, double), inferência (var), operadores aritméticos e módulo (%).
 
-- Tipos de dados primitivos e inferência de tipos (var, int, float, String)
+Estruturas Condicionais: if, else if, else, operador ternário e controle com switch-case.
 
-- Formatação de saída com máscaras (%s, %d, %.2f)
+Estruturas de Repetição: Laços for, while e do-while.
 
-- Operações aritméticas e funções matemáticas (Math.abs)
+Controle de Fluxo: Utilização de break, continue e validações lógicas com operadores de curto-circuito (&&, ||).
 
 Feito com dedicação durante meus estudos em desenvolvimento de software! 💻🚀
